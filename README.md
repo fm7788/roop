@@ -68,7 +68,7 @@ Users are expected to follow local laws and use the software responsibly. If usi
 
 Our software uses a lot of third party libraries as well pre-trained models. The users should keep in mind that these third party components have their own license and terms, therefore our license is not being applied.
 
-
+模型:https://github.com/facefusion/facefusion-assets/releases/download/models/inswapper_128_fp16.onnx
 ## Credits
 
 - [deepinsight](https://github.com/deepinsight) for their [insightface](https://github.com/deepinsight/insightface) project which provided a well-made library and models.
